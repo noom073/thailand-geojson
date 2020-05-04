@@ -159,7 +159,7 @@
         }
     }, {
         "type": "Feature",
-        "properties": { "name": "AngThong", "p": 277.6 },
+        "properties": { "name": "AngThong", "name_th": "อ่างทอง", "p": 277.6 },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
@@ -1219,7 +1219,7 @@
         }
     }, {
         "type": "Feature",
-        "properties": { "name": "Chainat", "p": 145.3 },
+        "properties": { "name": "Chainat", "name_th": "ชัยนาท", "p": 145.3 },
         "geometry": {
             "type": "Polygon",
             "coordinates": [
